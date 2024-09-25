@@ -1,9 +1,5 @@
 # SGD-Classifier
-```
-Program to implement the prediction of iris species using SGD Classifier.
-Developed by: Rajalakshmi R
-RegisterNumber:212223110037 
-```
+
 ## AIM:
 To write a program to predict the type of species of the Iris flower using the SGD Classifier.
 
@@ -28,6 +24,12 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Program:
 ```
+/*
+Program to implement the prediction of iris species using SGD Classifier.
+Developed by: Rajalakshmi R
+RegisterNumber:212223110037 
+*/
+
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
